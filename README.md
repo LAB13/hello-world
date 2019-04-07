@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hello Humans! Let's go for GitHub.
+
+Checking the flow...
